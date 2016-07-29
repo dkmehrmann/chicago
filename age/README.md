@@ -8,7 +8,11 @@ A shiny app to explore the chicago community areas. More importantly, a test dri
 Data from [some random guy](http://robparal.blogspot.com/2012/05/hard-to-find-census-data-on-chicago.html). No, seriously.
 
 ## Setup
+
+https://www.shinyapps.io/admin/#/dashboard
+
 Account: andrewmehrmann
+
 PW: Linked through github
 
 `install.packages('rsconnect')`
