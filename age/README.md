@@ -21,7 +21,7 @@ rsconnect::setAccountInfo(name='andrewmehrmann',
 ## Deploy 
 
 ```
-setwd("~/chicago/age")
+setwd("~/gitrepos/chicago/age")
 rsconnect::deployApp(appName='Chicago_Age')
 ```
 
